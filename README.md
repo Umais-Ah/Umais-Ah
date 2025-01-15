@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Umais</h1>
-<h3 align="center">A passionate Cyber Security Enthusiat from Pakistan</h3>
+<h3 align="center">A passionate Cyber Security Enthusiast from Pakistan</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=umais-ah&label=Profile%20views&color=0e75b6&style=flat" alt="umais-ah" /> </p>
 
