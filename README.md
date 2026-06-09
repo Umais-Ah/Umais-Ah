@@ -9,9 +9,8 @@
 <h4 align="center">Passionate about Machine Learning, Deep Learning, NLP & Data Analytics</h4>
 
 <p align="center">
-	<a href="YOUR_PORTFOLIO">Portfolio</a> -
-	<a href="YOUR_LINKEDIN">LinkedIn</a> -
-	<a href="mailto:YOUR_EMAIL">Email</a> -
+	<a href="https://www.linkedin.com/in/umais-ahmed-176484320/">LinkedIn</a> -
+	<a href="umaisahmed180@gmail.com">Email</a> -
 	<a href="https://github.com/Umais-Ah">GitHub</a>
 </p>
 
