@@ -69,7 +69,7 @@
 
 <tr>
 <td><b>🚗 Autonomous Ride Sharing Dispatch System</b></td>
-<td>C++, OOP</td>
+<td>C++,OS concepts</td>
 <td>Smart ride allocation and dispatch management system</td>
 </tr>
 
