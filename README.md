@@ -1,24 +1,138 @@
-<h1 align="center">Hi 👋, I'm Umais</h1>
+<img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" />
 
+<h1 align="center">Hi there 👋, I'm Muhammad Umais</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=umais-ah&label=Profile%20views&color=0e75b6&style=flat" alt="umais-ah" /> </p>
+<h3 align="center">An aspiring Data Scientist & AI Engineer from Pakistan 🇵🇰</h3>
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+<h4 align="center">Computer Science Student @ FAST National University</h4>
 
-- 📫 How to reach me **umaisahmed180@gmail.com**
+<h4 align="center">Passionate about Machine Learning, Deep Learning, NLP & Data Analytics</h4>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/umais-ahmed-176484320" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="umais-ahmed-176484320" height="30" width="40" /></a>
-<a href="https://instagram.com/umais._ahmed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="umais._ahmed" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/umaisahmed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="umaisahmed" height="30" width="40" /></a>
+<p align="center">
+	<a href="YOUR_PORTFOLIO">Portfolio</a> -
+	<a href="YOUR_LINKEDIN">LinkedIn</a> -
+	<a href="mailto:YOUR_EMAIL">Email</a> -
+	<a href="https://github.com/Umais-Ah">GitHub</a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> </p>
+<p align="left">
+	<img src="https://komarev.com/ghpvc/?username=Umais-Ah&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Umais-Ah" />
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=umais-ah&show_icons=true&locale=en&layout=compact" alt="umais-ah" /></p>
+<br>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=umais-ah&show_icons=true&locale=en" alt="umais-ah" /></p>
+<details>
+<summary><strong>🏆 Trophies</strong></summary>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=umais-ah&" alt="umais-ah" /></p>
+<p align="left">
+<img src="https://github-profile-trophy.vercel.app/?username=Umais-Ah&theme=discord" />
+</p>
+
+</details>
+
+## Languages and Tools <img src='https://user-images.githubusercontent.com/74038190/206662607-d9e7591e-bbf9-42f9-9386-29efc927bc16.gif' width="40" height="30px">
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=cpp,c,python,java" />
+
+<br>
+
+<img src="https://skillicons.dev/icons?i=mysql,git,github,linux,vscode,postman" />
+
+<br>
+
+<img src="https://skillicons.dev/icons?i=html,css,javascript" />
+
+</div>
+
+<br />
+
+<h2 align='center'><i>🚀 Featured Projects</i></h2>
+
+<div align="center">
+<table>
+<thead align="center">
+<tr>
+<td><b>💻 Projects</b></td>
+<td><b>🛠️ Tech Stack</b></td>
+<td><b>📌 Description</b></td>
+</tr>
+</thead>
+
+<tbody>
+
+<tr>
+<td><b>⚖️ VerdictBox</b></td>
+<td>Python, NLP, ML</td>
+<td>Toxicity Detection, Sentiment Analysis, Sarcasm Detection & Logical Fallacy Detection</td>
+</tr>
+
+<tr>
+<td><b>🚗 Autonomous Ride Sharing Dispatch System</b></td>
+<td>C++, OOP</td>
+<td>Smart ride allocation and dispatch management system</td>
+</tr>
+
+<tr>
+<td><b>🧭 Fast Navigation System</b></td>
+<td>C++, Graph Algorithms</td>
+<td>Google Maps inspired navigation using Dijkstra Algorithm</td>
+</tr>
+
+<tr>
+<td><b>👾 Chicken Invaders</b></td>
+<td>C++, SFML</td>
+<td>2D arcade game developed using OOP principles</td>
+</tr>
+
+</tbody>
+</table>
+</div>
+
+<br>
+
+# 📊 GitHub Stats:
+
+![](https://github-readme-stats.vercel.app/api?username=Umais-Ah\&theme=dark\&hide_border=true\&include_all_commits=true)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Umais-Ah\&theme=dark\&hide_border=true\&layout=compact)
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=Umais-Ah\&theme=dark\&hide_border=true)
+
+<details>
+<summary><strong>✍️ Random AI Quote</strong></summary>
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
+
+</details>
+
+<br>
+
+## 🎯 Currently Learning
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch" />
+
+</div>
+
+* Machine Learning
+* Deep Learning
+* Natural Language Processing
+* Data Analytics
+* Generative AI
+
+<br>
+
+## 🌟 Open Source & Community
+
+* 🚀 Open to collaborating on AI/ML Projects
+* 💡 Always learning and building
+* 🤝 Looking to contribute to open-source AI initiatives
+
+<br>
+
+<p align="right">
+<a href="#top">Back to TOP 🔝</a>
+</p>
